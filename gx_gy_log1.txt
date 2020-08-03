@@ -19,9 +19,9 @@ cmd setmessagedelay gyocs 2500:
 cmd setmessagedelay gxpcrf 2500: 
 
 Run test case (1) on facebook: gx_gy_combined_ul()
-Verdict(gx_gy_combined_ul) = VERDICT_PASS
+Verdict(gx_gy_combined_ul) = VERDICT_fail
 Run test case (2) on facebook: gx_gy_combined_dl()
-Verdict(gx_gy_combined_dl) = VERDICT_PASS
+Verdict(gx_gy_combined_dl) = VERDICT_fail
 Run test case (3) on facebook: gx_gy_combined_01()
 Verdict(gx_gy_combined_01) = VERDICT_PASS
 Run test case (4) on facebook: gx_gy_combined_02()
