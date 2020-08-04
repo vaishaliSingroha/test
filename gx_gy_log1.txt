@@ -1,4 +1,4 @@
-Warning: could not import ng40plot: ImportError('No module named matplotlib',)
+kjbewbvb jb md smv, mds vm,s d,mb vjdsbvjadbvjadbWarning: could not import ng40plot: ImportError('No module named matplotlib',)
 Open NG40 logger: Name = working_testplan_gxgy_200731_201218-1; ID = 1
 WARNING: 1 or more instance(s) of test list already active!
 
